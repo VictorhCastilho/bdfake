@@ -1,0 +1,38 @@
+{
+    "ADM": [
+      {
+        "id": 1,
+        "nome": "Moacyr Roberto Gil de Alvarenga"
+      },
+      {
+        "id": 2,
+        "nome": "Sandro Dias Meireles"
+      },
+      {
+        "id": 3,
+        "nome": "Batista Gonçalves"
+      },
+      {
+        "id": 4,
+        "nome": "Ketlin Talita Matias de Brandão"
+      }
+    ],
+    "USUÁRIO": [
+      {
+        "id": "1",
+        "nome": "Ana Aranda Dias"
+      },
+      {
+        "id": "2",
+        "nome": "Irene Alessandra Casanova Cortês"
+      },
+      {
+        "id": "3",
+        "nome": "Ingrid Márcia Delvalle Fontes"
+      },
+      {
+        "id": "4",
+        "nome": "Christopher Simon Domingues Fortes"
+      }
+    ]
+  }
