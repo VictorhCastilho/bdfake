@@ -1,38 +1,46 @@
 {
-    "ADM": [
+    "adm": [
       {
         "id": 1,
         "nome": "Moacyr Roberto Gil de Alvarenga"
+        "cpf": "111111111"
       },
       {
         "id": 2,
         "nome": "Sandro Dias Meireles"
+        "cpf": "111111111"
       },
       {
         "id": 3,
         "nome": "Batista Gonçalves"
+        "cpf": "111111111"
       },
       {
         "id": 4,
         "nome": "Ketlin Talita Matias de Brandão"
+        "cpf": "111111111"
       }
     ],
-    "USUÁRIO": [
+    "usuario": [
       {
         "id": "1",
         "nome": "Ana Aranda Dias"
+        "cpf": "111111111"
       },
       {
         "id": "2",
         "nome": "Irene Alessandra Casanova Cortês"
+        "cpf": "111111111"
       },
       {
         "id": "3",
         "nome": "Ingrid Márcia Delvalle Fontes"
+        "cpf": "111111111"
       },
       {
         "id": "4",
         "nome": "Christopher Simon Domingues Fortes"
+        "cpf": "111111111"
       }
     ]
   }
