@@ -1,5 +1,5 @@
 {
-    "usuarios": [
+    "usuarsios": [
     { "id": 1, "login": "pedrin1", "senha": "123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": true },
     { "id": 2, "login": "pedrin2", "senha": "123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": true },
     { "id": 3, "login": "pedrin3", "senha": "123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": true },
