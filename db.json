@@ -1,46 +1,7 @@
-{
-    "adm": [
-      {
-        "id": 1,
-        "nome": "Moacyr Roberto Gil de Alvarenga"
-        "cpf": "111111111"
-      },
-      {
-        "id": 2,
-        "nome": "Sandro Dias Meireles"
-        "cpf": "111111111"
-      },
-      {
-        "id": 3,
-        "nome": "Batista Gonçalves"
-        "cpf": "111111111"
-      },
-      {
-        "id": 4,
-        "nome": "Ketlin Talita Matias de Brandão"
-        "cpf": "111111111"
-      }
-    ],
-    "usuario": [
-      {
-        "id": "1",
-        "nome": "Ana Aranda Dias"
-        "cpf": "111111111"
-      },
-      {
-        "id": "2",
-        "nome": "Irene Alessandra Casanova Cortês"
-        "cpf": "111111111"
-      },
-      {
-        "id": "3",
-        "nome": "Ingrid Márcia Delvalle Fontes"
-        "cpf": "111111111"
-      },
-      {
-        "id": "4",
-        "nome": "Christopher Simon Domingues Fortes"
-        "cpf": "111111111"
-      }
-    ]
-  }
+"usuarios": [
+    { "id": 1, "login": "pedrin1", "senha": "123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": true },
+    { "id": 2, "login": "pedrin2", "senha": "123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": true },
+    { "id": 3, "login": "pedrin3", "senha": "123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": true },
+    { "id": 4, "login": "pedrin4", "senha": "123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": false },
+    { "id": 5, "login": "pedrin5", "senha": "1123mudar", "senhaRepeticao": "123mudar", "cpf": "111111111", "admin": false }
+]
