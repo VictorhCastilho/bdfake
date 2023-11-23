@@ -15,5 +15,10 @@
     { "id": 1, "nome": "perfeito estado"},
     { "id": 2, "nome": "bom estado"},
     { "id": 3, "nome": "mal estado"}
-    ]
+    ],
+    "marcas": [
+        { "id": 1, "nome": "Sony"},
+        { "id": 2, "nome": "Microsoft"},
+        { "id": 3, "nome": "Apple"}
+        ]
 }
