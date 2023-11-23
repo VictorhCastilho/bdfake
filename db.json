@@ -12,8 +12,8 @@
     { "id": 3, "nome": "notebook"}
     ],
     "conservacoes": [
-    { "id": 1, "nome": "novo"},
-    { "id": 2, "nome": "semi-novo"},
-    { "id": 3, "nome": "usado"}
+    { "id": 1, "nome": "perfeito estado"},
+    { "id": 2, "nome": "bom estado"},
+    { "id": 3, "nome": "mal estado"}
     ]
 }
